@@ -1,0 +1,16 @@
+Question: What, in your opinion, is an important part of code reviews?
+That is, what is something you pay attention to when you review code,
+and that you appreciate when others do the same for your code?
+
+Answer: When I review code, I firstly look at the readability and formatting
+of the code. Another very import thing to lookout for is how recreatable and
+how easy it would be for a third-party to understand what is being done in the
+code.
+
+Question: We have an awful lot of computers here, and it gets pretty
+confusing with slightly different things running on all of them. How
+could containers help us improve this situation?
+
+Answer: Containers can resolve this issue by creating a virtual machine with
+only the required packages to isolate the program you want to run preventing
+any interferences from other things running on the system.
